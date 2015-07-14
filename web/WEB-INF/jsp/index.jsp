@@ -10,6 +10,6 @@
 
     <body>
         <p>Hello! This is the default welcome page for a Spring Web MVC project.</p>
-        <a href="hello123.htm">Say HELLO</a>
+        <a href="hello123.htm">Say HELLO THoai</a>
     </body>
 </html>
